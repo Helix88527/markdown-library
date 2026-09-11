@@ -1,0 +1,11 @@
+# Core routing, state management, transcript import, and HTML extraction use the
+# Python standard library. The packages below enable the corresponding document
+# and visual routes.
+python-docx>=1.1
+pypdf>=5.0
+Pillow>=10.0
+imageio-ffmpeg>=0.5
+pytesseract>=0.3.13
+
+# Full ASR/video processing is supplied by the user's fixed local runtime:
+# av, imageio-ffmpeg, ctranslate2, faster-whisper, and its model files.

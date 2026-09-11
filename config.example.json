@@ -1,0 +1,15 @@
+{
+  "database_root_marker": ".markdown-library-database.json",
+  "cooked_dir": "Markdown",
+  "runtime_python": "工具/资料整理工具/runtime/transcribe-env/Scripts/python.exe",
+  "whisper_model": "工具/资料整理工具/runtime/models/faster-whisper-large-v3-turbo",
+  "terminology_file": "工具/资料整理工具/dictionaries/terminology.json",
+  "preferred_device": "auto",
+  "cuda_compute_type": "float16",
+  "cpu_compute_type": "int8",
+  "allow_cpu_fallback": false,
+  "asr_batch_size": 1,
+  "asr_batch_validated": false,
+  "beam_size": 3,
+  "cuda_library_dirs": []
+}
