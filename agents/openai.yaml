@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown 资料库"
+  short_description: "将文章、网页、音视频和逐字稿整理成可追溯的 Markdown 资料库"
+  default_prompt: "使用 $markdown-library 将我指定的材料整理为 Markdown 资料库，保留来源和有效内容，按需补充背景、核验与参考链接。"
